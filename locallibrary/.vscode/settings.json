@@ -1,0 +1,7 @@
+{
+    "python.pythonPath":"/Users/kadfwj/.pyenv/shims/python3",
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django",
+        "pylint_django"
+    ],
+}
